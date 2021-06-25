@@ -1,0 +1,394 @@
+@media  (min-width:768px) and (max-width:991px){
+    .ul-icon li {
+        margin-right: 0px;
+    }
+    .reseller .type {
+        margin-bottom: 30px;
+    }
+.merg{
+    text-align: center;
+}
+
+
+
+
+    /* ends here  */
+}
+@media (min-width:0px) and (max-width:991px) {
+    .navbar{
+        display: none !important;
+    }
+    .newnav {
+        display: inherit;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+   
+    .newnav button i{
+        font-size: 35px;
+        }
+        .offcanvas-body{
+            
+        }
+
+
+
+
+    }
+}
+   
+
+
+
+
+
+
+
+@media  (min-width:576px) and (max-width:767px){
+
+    .mg{
+        margin: auto;
+        margin-top: 30px;
+    }
+
+    .reseller .type {
+        margin-bottom: 30px;
+    }
+    .need-hosting .btn-get {
+        transform: translateX(50%);
+    }
+    .domain input[type="submit"] {
+        margin-top: 20px;
+    }
+    .domain h1 {
+        margin-bottom: 15px;
+    }
+    footer .col-1{
+        
+display: none;
+    }
+
+    footer .col-2{
+
+width: 27.3333%;
+
+margin-bottom: 30px;
+
+margin-left: 5.4%;
+}
+.merg {
+    margin: auto;
+    width: 59% !important;
+    text-align: center;
+}
+.choose_us .component h4 {
+    font-size: 17px;
+}
+.hosting h1 {
+    padding-bottom: 0px;
+}
+
+
+    /* ends line  */
+}
+
+
+
+
+
+
+
+
+@media  (min-width:0px) and (max-width:575px) {
+    .nav-link{
+        padding: 0px 5px;
+    }
+    .btn-signup {
+        margin-left: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 5px 8px;
+    }
+    .hero h1 {
+        font-size: 20px;
+    }
+        
+
+    .choose_us .component {
+        width: 65%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .choose_us h6 {
+        font-size: 25px;
+    }
+    .hosting h1 {
+        font-size: 25px;
+       
+        padding-bottom: 30px;
+    }
+    .hosting .item h2 {
+        font-size: 20px;
+    }
+    .hosting .item h6 {
+        font-size: 14px;
+    }
+    .hosting .item2{
+        border: none;
+    }
+    .hosting .item:hover {
+        border-right: none;
+        box-shadow: 1px 1px 15px #d2d2d2aa;
+        padding: 10px 0px;
+    }
+    .reseller h1 {
+        font-size: 22px;
+    }
+    .reseller h6 {
+        font-size: 14px;
+    }
+    .reseller .type {
+        width: 60%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .item-image {
+        height: 57px;
+        width: 57px;
+        margin-bottom: 10px;
+    }
+   
+    .need-hosting a {
+        transform: translatex(50%);
+    }
+    .domain input[type="submit"] {
+        margin-top: 15px;
+    }
+    footer .col-1{
+        display: none;
+    }
+    
+    footer .col-2 {
+        margin-bottom: 20px;
+        width: 50%;
+        text-align: center;
+    }
+    footer .merg {
+        margin: auto;
+    }
+    .choose_us .component {
+        width: 57%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .testomonial-item {
+        width: 84%;
+        margin: auto;
+    }
+    .testomonial-item .imgbx {
+        display: none;
+    }
+    .reseller {
+        padding-bottom: 0px !important;
+    }
+    
+    
+    
+}
+@media (min-width:0px) and (max-width:420px) {
+    .reseller .type {
+        width: 75%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .bg {
+        
+        padding: 0;
+    }
+    .need-hosting{
+        background: #f1f6fb;
+        /* padding-bottom: 20px !important; */
+        padding-bottom: 72px !important;
+    }
+    .need-hosting-content{
+        position: relative;
+    }
+    .need-hosting a {
+        position: absolute;
+        left: 50%;
+        transform: translatex(-50%);
+        font-size: 13px;
+        
+    }
+    footer p {
+        
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .hero h6 {
+        padding-bottom: 8px;
+        font-size: 14px;
+    }
+    .hero .btn-hero {
+        margin-bottom: 40%;
+    }
+    .features h6 {
+        font-size: 14px;
+    }
+    .features h6 {
+        font-size: 14px;
+    }
+    .choose_us .component {
+        padding: 18px 40px;
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .choose_us h6 {
+        font-size: 24px;
+        padding-bottom: 30px;
+    }
+    .hosting h1{
+        font-size: 24px;
+        padding-bottom: 30px;
+    }
+    .hosting .item h2 {
+        font-size: 22px;
+    }
+    .hosting .item h6 {
+        font-size: 14px;
+    }
+    .reseller h6 {
+        color: #7782aa;
+        font-size: 13px;
+        letter-spacing: .4px;
+    }
+    .icon-content {
+        width: 85%;
+        margin: auto;
+    }
+    .need-hosting h1 {
+        font-size: 22px;
+        padding-bottom: 32px;
+        text-align: center;
+    }
+    .domain input[type="submit"] {
+        width: 50%;
+        transform: translateX(50%);
+        margin-top: 15px;
+    }
+    .domain h1 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    footer .col-2 {
+        margin-bottom: 20px;
+        width: 100%;
+        text-align: center;
+    }
+    footer .col-1{
+        display: none;
+    }
+    footer{
+        padding-bottom: 20px;
+        padding-top: 30px ;
+    }
+    .reverse {
+        flex-direction: column;
+        margin: auto;
+        padding-left: 0px !important;
+        text-align: center;
+    }
+    .icon-box {
+        margin-right: 0px; 
+    }
+    .owl-nav .owl-prev span {
+        left: -25px;
+    }
+    .owl-nav .owl-next span {
+        right: -25px;
+    }
+    .testomonial-item p{
+          
+font-size: 13px;
+          
+letter-spacing: 1px;
+          
+font-weight: 600;
+          
+/* padding: 0px; */
+          
+margin-top: 18px;
+          
+color: #7c8ca4;
+          
+text-align: justify;
+          
+}
+            .hero {
+                min-height: 70vh;
+            }
+
+
+
+
+}
+@media (min-width:0px) and (max-width:375px) {
+    .need-hosting h1 {
+        font-size: 21px;
+        text-align: center;
+    }
+    .need-hosting .btn-get {
+        padding: 7px 15px;
+        width: 60%;
+    }
+    footer p {
+        font-size: 15px;
+    }
+    .hero h1 {
+        font-size: 20px;
+    }
+    .hero h6 {
+        font-size: 12px;
+    }
+    .hero {
+        min-height: 65vh;
+    }
+    .features {
+        display: none;}
+
+        .choose_us h6 {
+            font-size: 19px;
+        }
+        .choose_us .component {
+            width: 100%;
+        }
+        .hosting h1 {
+            font-size: 20px;
+        }
+        .reseller h1 {
+            color: #39335b;
+            font-size: 23px;
+            letter-spacing: 1px;
+            padding: 5PX;
+        }
+        .reseller .type {
+            width: 100%;
+        }
+        .reverse {
+            flex-direction: column;
+            margin: auto;
+            padding-left: 0px !important;
+            text-align: center;
+        }
+        .icon-box {
+            margin-right: 0px; 
+        }
+        .hero .btn-hero {
+            margin-bottom: 55%;
+        }
+
+
+
+}
